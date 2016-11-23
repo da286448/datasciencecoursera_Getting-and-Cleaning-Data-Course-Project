@@ -26,4 +26,4 @@ files
 Steps to work
 
 download the data from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"\
-save the "run_analysis.R" in the same folder where you have created the data from step1 3.run the program in R. and it will produce a file named "tidy_data.txt" in the same working directory.
+save the "Week 4 Project.R" in the same folder where you have created the data from step1 3.run the program in R. and it will produce a file named "tidy_data.txt" in the same working directory.
